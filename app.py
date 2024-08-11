@@ -36,7 +36,7 @@ if "chat_session" not in st.session_state:
 st.sidebar.title("Chat Deep: Exploring AI Under the Sea 🌊🧠")
 
 # Sidebar GIF
-gif_url = "C:/Users/hp/Mini_Project_2/fish.gif"
+gif_url = "fish (1).gif"
 st.sidebar.image(gif_url, use_column_width=True)
 
 # Display daily tip in sidebar
